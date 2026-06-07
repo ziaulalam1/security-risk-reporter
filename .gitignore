@@ -1,8 +1,7 @@
 .venv/
 __pycache__/
 .pytest_cache/
-INTERVIEW.md
 reports/
 .claude/
 CLAUDE.md
-INTERVIEW_CHEATSHEET.md
+security-risk-reporter/
